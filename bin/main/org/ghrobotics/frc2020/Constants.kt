@@ -30,7 +30,12 @@ object Constants {
     const val kDriveRightMasterId = 3
     const val kDriveRightSlaveId = 4
     const val kDrivePigeonId = 5
-
+    const val kTurretId = 7
+    const val kIntakeLeftID = 6
+    const val kIntakeRightID = 8
+    const val kwristID = 9
+    const val kIntakeLauncherSolenoidId = 0
+    const val kPCMId = 41
     val kDriveWheelRadius = 3.inch
     val kDriveNativeUnitModel = NativeUnitLengthModel(1440.nativeUnits, kDriveWheelRadius)//1440 is number of ticks
 

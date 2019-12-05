@@ -7,5 +7,6 @@ import org.ghrobotics.lib.wrappers.FalconTimedRobot
  * Do NOT touch this file.
  */
 fun main() {
-    FalconTimedRobot.startRobot { Robot }
+    //FalconTimedRobot.startRobot { Robot }
+    Robot.start()
 }

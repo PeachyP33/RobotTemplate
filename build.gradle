@@ -54,6 +54,10 @@ dependencies {
     compile "org.ghrobotics.FalconLibrary:core:2020.0.0-4"
     compile "org.ghrobotics.FalconLibrary:wpi:2020.0.0-4"
     compile "org.ghrobotics.FalconLibrary:vendorCTRE:2020.0.0-4"
+    compile "org.ghrobotics.FalconLibrary:vendorNAVX:2020.0.0-4"
+    compile "org.ghrobotics.FalconLibrary:vendorREV:2020.0.0-4"
+
+
 }
 
 // Setting up my Jar File. In this case, adding all libraries into the main jar ('fat jar')
